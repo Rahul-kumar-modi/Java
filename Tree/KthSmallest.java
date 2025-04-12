@@ -44,7 +44,7 @@ public class KthSmallest{
     }
 
     private static int smallest(Node root, int idx, ArrayList<Integer> arr){
-        if(idx<=0 || idx> arr.size()) return -1;
+        if(idx<=0 || idx> arr.size()) return -1; // 1-based indexing 
         return arr.get(idx-1);  
     }
 } 
