@@ -1,3 +1,5 @@
+//Minimum number of 1 bits required to convert a number to other number.
+
 import java.util.Scanner;
 
 public class MinBitFlip {
