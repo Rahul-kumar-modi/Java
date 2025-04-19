@@ -1,3 +1,5 @@
+//2nd way to show whether the number is power of 4 or not.
+
 import java.util.Scanner;
 
 public class PowerOfFourSecond {

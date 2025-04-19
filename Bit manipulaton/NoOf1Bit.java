@@ -1,3 +1,5 @@
+//Number of 1 bits in a number.
+
 import java.util.Scanner;
 
 public class NoOf1Bit {
