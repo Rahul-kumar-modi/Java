@@ -1,3 +1,4 @@
+// Write a program to print a number after turn off of its kth bit.
 import java.util.Scanner;
 
 public class Turnoff {
