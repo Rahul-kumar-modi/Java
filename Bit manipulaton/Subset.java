@@ -1,3 +1,5 @@
+// Write a program to find subset of all the numbers present in an array.
+
 import java.util.ArrayList;
 
 public class Subset {
@@ -15,7 +17,11 @@ public class Subset {
             ans.add(list);
         }
 
+<<<<<<< HEAD
         System.out.print("Subsets of a nums array is: " +ans);
         
+=======
+        System.out.print("Subsets of a nums array is: " + ans);
+>>>>>>> 2954259f6b977b5693aaedee9c6f636596ade125
     }
 }
