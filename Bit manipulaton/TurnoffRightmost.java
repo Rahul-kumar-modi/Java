@@ -1,3 +1,5 @@
+// Write a program to print a number after turn off of its rightmost bit.
+
 import java.util.Scanner;
 
 public class TurnoffRightmost {
