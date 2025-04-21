@@ -1,4 +1,4 @@
-# Write a program to print the number in reverse with number taken from user.
+// Write a program to print the number in reverse with number taken from user.
 
 import java.util.Scanner;
 
