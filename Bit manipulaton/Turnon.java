@@ -1,3 +1,4 @@
+// Write a program to print a number after turn on of its kth bit.
 import java.util.Scanner;
 
 public class Turnon {
@@ -8,6 +9,6 @@ public class Turnon {
         System.out.print("Enter kth bit : ");
         int kthbit = sc.nextInt();
         num  = num | (1<<kthbit);
-        System.out.println("After turn off the kth bit the number become: " +num);
+        System.out.println("After turn on the kth bit the number become: " +num);
     }
 }
