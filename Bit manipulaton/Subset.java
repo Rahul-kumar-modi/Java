@@ -1,4 +1,4 @@
-# Write a program to find subset of all the numbers present in an array.
+// Write a program to find subset of all the numbers present in an array.
 
 import java.util.ArrayList;
 
