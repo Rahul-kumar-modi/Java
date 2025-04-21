@@ -1,3 +1,5 @@
+// Write a program xor the number present in an array with using queries.
+
 public class XorQueries {
     public static void main(String[] args) {
         int[] arr = {1, 3,4,8};
@@ -13,9 +15,7 @@ public class XorQueries {
             else ans[i] = arr[left-1] ^ arr[left];
         }
 
-        System.out.print("The xor queries of a subarray arr are: ");
-        for(int i=0;i<m;i++){
-            System.out.print(ans[i] + " ");
-        }
+        System.out.print("The xor queries of a subarray arr are: " + ans);
+        
     }
 }
