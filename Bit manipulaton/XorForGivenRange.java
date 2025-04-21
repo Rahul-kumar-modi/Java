@@ -1,3 +1,5 @@
+// Write a program to xor the given range from 1 to n .
+
 import java.util.Scanner;
 
 public class XorForGivenRange {
